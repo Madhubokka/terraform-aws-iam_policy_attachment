@@ -1,0 +1,2 @@
+variable "policyname" {}
+variable "attachrole" {}
